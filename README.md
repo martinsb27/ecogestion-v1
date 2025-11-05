@@ -1,2 +1,2 @@
 # ecogestion-v1
-Versión 1 del sistema EcoGestión (consola básica en Python)
+🚀 EcoGestión v1 — Sistema básico de gestión interna en Python 💻
